@@ -32,7 +32,7 @@ ItGgyu BSOD Analyzer AI PRO automatically analyzes Windows crash dumps and Event
 
 1. Download the latest portable version from the [Releases](../../releases) tab.
 2. Get your free Gemini API Key from [Google AI Studio](https://aistudio.google.com/app/apikey).
-3. Run `BlueScreenAnalyzer.exe`.
+3. Run `ItGgyu_BSOD.exe`.
 4. Go to **Settings**, paste your API Key, and select your preferred language.
 5. Click **Select File** to load a `.dmp` file (usually located in `C:\Windows\Minidump`).
 6. Get your AI-generated crash report in seconds!
