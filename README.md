@@ -24,8 +24,7 @@ ItGgyu BSOD Analyzer AI PRO automatically analyzes Windows crash dumps and Event
 * **⚡ Portable:** No installation required. Just run the `.exe` file.
 
 ## 📸 Screenshots (스크린샷)
-*(Tip: 여기에 아까 캡처한 예쁜 다크 테마 프로그램 실행 화면 이미지를 드래그해서 넣으세요!)*
-![Screenshot 1]() 
+<img width="1400" height="1050" alt="23232323" src="https://github.com/user-attachments/assets/ec06e3da-ac86-4bdc-9534-c7ace02c43ce" />
 
 ---
 
