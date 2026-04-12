@@ -1,5 +1,5 @@
 {
-  "version": "1.25",
+  "version": "1.23",
   "url": "https://github.com/jgyunam1212-source/ItGgyu/releases/download/v1.2.3/ItGgyu_BSOD_Global.v1.2.3.zip",
   "changelog": "[KOREAN]\n- 해상도 조절\n- 정밀 진단을 위한 '발생 상황' 입력란 추가\n- 정밀 진단을 위한 '이벤트 뷰어 로그 함께 분석' 옵션 추가\n- 분석 기록 개별 및 전체 삭제 기능 추가\n- UI/UX 업데이트 및 시스템 최적화\n- 글로벌 다국어 지원 추가 (한국어, 영어, 일본어, 중국어)\n\n[ENGLISH]\n- Enhanced BSOD analysis AI accuracy\n- Added 'User Context' input field for precise diagnosis\n- Added 'Event Viewer Log Analysis' option for precise diagnosis\n- Added feature to delete individual or all analysis history items\n- UI/UX updates and system optimization\n- Added Global Language Support (Korean, English, Japanese, Chinese)\n\n[JAPANESE]\n- ブルースクリーン分析AIの正確性を向上\n- 精密診断のための「発生状況」入力欄を追加\n- 精密診断のための「イベントビューアーログの同時分析」オプションを追加\n- 分析履歴の個別および一括削除機能を追加\n- UI/UXのアップデートおよびシステム最適化\n- 多言語サポートを追加 (韓国語、英語、日本語、中国語)\n\n[CHINESE]\n- 提高蓝屏分析 AI 的准确性\n- 新增用于精密诊断的“发生情况”输入栏\n- 新增用于精密诊断的“事件查看器日志同步分析”选项\n- 新增分析历史记录的单独或全部删除功能\n- UI/UX 更新及系统优化\n- 新增多语言支持 (韩语, 英语, 日语, 中文)"
 }
